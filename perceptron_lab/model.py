@@ -1,4 +1,4 @@
-# пороговый перцептрон с обучением на размеченных примерах
+"""пороговый перцептрон с обучением на размеченных примерах"""
 
 from collections.abc import Sequence
 from math import isfinite

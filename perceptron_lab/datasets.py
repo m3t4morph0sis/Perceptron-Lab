@@ -1,4 +1,4 @@
-# генерация синтетических точек и подготовка данных iris
+"""генерация синтетических данных и подготовка iris"""
 
 from collections.abc import Iterable, Sequence
 from random import Random

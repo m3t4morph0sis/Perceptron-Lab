@@ -1,4 +1,4 @@
-# проверки порога, инициализации, предсказания и обучения
+"""тесты предсказания и обучения перцептрона"""
 
 from perceptron_lab.datasets import make_iris, make_synthetic, split_dataset
 from perceptron_lab.model import Perceptron
